@@ -1,6 +1,6 @@
 # learn_github
 
-first edit of readme
-second edit
-pull request
-edit pull request
+first edit of readme\n
+second edit\n
+pull request\n
+edit pull request\n
